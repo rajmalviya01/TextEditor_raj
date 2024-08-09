@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextEditor_raj/static/css/main.e6c13ad2.css",
+    "main.js": "/TextEditor_raj/static/js/main.eef35d49.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextEditor_raj/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextEditor_raj/index.html",
+    "main.e6c13ad2.css.map": "/TextEditor_raj/static/css/main.e6c13ad2.css.map",
+    "main.eef35d49.js.map": "/TextEditor_raj/static/js/main.eef35d49.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextEditor_raj/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eef35d49.js"
+  ]
+}
